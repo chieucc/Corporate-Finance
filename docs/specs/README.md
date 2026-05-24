@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# docs/specs/
+
+Technical specifications authored at Stage 4, used as the sole input for the Stage 5 LLM analysis. Each spec is a self-contained document that captures all named ranges (`BAL_*`, `INC_*`, `CASH_*`, `RATIO_*`), derived inputs, formula definitions, validation rules, and output format requirements — everything an LLM needs to produce the full ratio analysis without access to the underlying workbook. The current file is `2026-05-24-chu-fpt-spec.md` (Version 2.0), which incorporated two HIL corrections over the round-1 draft: dividends source clarified from 3,185 B VND (declared estimate) to 4,573.754 B VND (CF statement cash paid), and shares outstanding corrected from 1,700,000,000 to 1,703,507,121. The iteration evidence is logged in `deliverables/prompt-log.md`.

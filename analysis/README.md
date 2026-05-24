@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# analysis/
+
+Verification artifacts produced at Stage 5 to cross-check the LLM-generated ratio analysis against manual recomputation from Stage 3 financials. The `validation/` subdirectory holds the Stage 5 manual verification table and the optional Stage 4 HIL iteration note. This directory does not contain the final analysis itself (that lives in `deliverables/`) — it contains only the evidence trail behind the analytical judgments recorded there. All files follow the naming convention `YYYY-MM-DD-{lastname}-{company-slug}-{kind}.md`.

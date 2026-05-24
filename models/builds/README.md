@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# models/builds/
+
+Populated financial models built at Stage 3 from the subject company's annual report. The file `2026-05-22-chu-fpt-financials.xlsx` contains FPT Corporation's FY2025 and FY2024 financials extracted from the Vietnamese Accounting Standards Annual Report, mapped to the course template's named-range structure across Income Statement, Balance Sheet, Cash Flow, and Ratios tabs. All 89 ratio formulas were recalculated after population and verified at zero errors. Key computed values include MVA 119,788.643 B VND, ROA 16.49%, ROE 31.44%, and Du Pont ROE 31.43% (0.01 pp time-mismatch gap disclosed in the Stage 5 analysis).

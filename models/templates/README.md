@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# models/templates/
+
+Unmodified course-provided templates used as structural foundations for the project. `performance-ratios-template.xlsx` is the Stage 1 blank ratios template distributed by the instructor; it defines the named-range convention (`BAL_*`, `INC_*`, `CASH_*`, `RATIO_*`), the six ratio categories (Performance, Profitability, Efficiency, Leverage, Liquidity, Du Pont), and the color-coding standard applied throughout the project. This file is kept unmodified — the populated version lives in `models/builds/`. Do not edit files in this directory.

@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# docs/decisions/
+
+Stage-gate decision records for the BUS-629 project. The primary file is the Stage 2 company selection memo (`2026-05-22-chu-fpt-selection.md`), which documents the rationale for selecting FPT Corporation, confirms annual report data availability, and states the analytical scope. The Stage 5 instructor feedback response (`2026-05-24-chu-stage2-feedback-response.md`) records the instructor's Stage 4 PR review observations and how they were incorporated. Files follow the naming convention `YYYY-MM-DD-{lastname}-{company-slug}-{kind}.md`; decision records are append-only — revisions appear as new commits on the same file rather than as new files.

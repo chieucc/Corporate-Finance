@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# analysis/validation/
+
+Manual ratio verification tables and HIL iteration notes. `2026-05-24-chu-fpt-stage5-verification.md` recomputes five ratios by hand from Stage 3 financials and compares them to the LLM's values, revealing four convention gaps: ROA (16.49% spec vs. 14.03% textbook), DSO (59.3 days vs. 75.0 days), Inventory Turnover (23.82× vs. 21.84×), and Debt-to-Equity (0.044× vs. 1.015×). `2026-05-24-chu-fpt-stage4-iteration.md` documents the Stage 4 HIL review pass that caught the dividends source error (3,185 → 4,573.754 B VND) and shares precision gap (1.7B → 1,703,507,121). Discrepancy rows in these files are more informative than match rows and are graded accordingly.

@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# models/
+
+Excel workbooks used across the BUS-629 project. The `templates/` subdirectory holds the unmodified Stage 1 template distributed by the course (`performance-ratios-template.xlsx`), which defines the named-range convention, color-coding standard (blue = hardcoded inputs, black = formulas, green = cross-sheet links), and the six-category ratio structure used throughout the project. The `builds/` subdirectory holds the Stage 3 populated workbook (`2026-05-22-chu-fpt-financials.xlsx`) with FPT Corporation's FY2025 and FY2024 financials extracted from the Annual Report and all 25+ ratio formulas computed. Do not commit files with the `~$` prefix (Excel lock files — excluded by `.gitignore`).

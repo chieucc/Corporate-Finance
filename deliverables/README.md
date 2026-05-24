@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# deliverables/
+
+Final outputs from the Stage 5 LLM analysis cycle. `2026-05-24-chu-fpt-llm-raw.md` is the unedited LLM output produced by feeding the Stage 4 spec alone. `2026-05-24-chu-fpt-final-analysis.md` is the human-reviewed and annotated version with dual-convention ratio corrections, a rewritten DSO headline (75.0 days standard vs. 59.3 days spec), total D/E added (0.48×), the ROE/leverage trade-off in Du Pont identified, and the executive investment thesis in the student's own voice. `2026-05-24-chu-fpt-spec-retrospective.md` is the structured Stage 4 spec self-evaluation, rated 3/5 with three evidenced gaps. `prompt-log.md` is the running log of every significant AI interaction across all five project stages.
