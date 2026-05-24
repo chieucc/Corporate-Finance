@@ -1,2 +1,3 @@
-# Corporate-Finance
-For VEMBA-BUS629
+# docs/
+
+This directory contains all written documentation produced during the BUS-629 project: company selection memos and the instructor feedback response in `decisions/`, and the Stage 4 technical specification in `specs/`. Files in `decisions/` record stage-gate choices and any instructor feedback responses; files in `specs/` hold the machine-readable specification used as the sole input for the Stage 5 LLM analysis. All filenames follow the project convention `YYYY-MM-DD-{lastname}-{company-slug}-{kind}.md`. This directory does not contain model outputs or final deliverables — those live in `deliverables/` and `models/` respectively.
